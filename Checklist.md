@@ -56,6 +56,6 @@ Have you compleded the tasks needed to earn free swag during Hacktoberfest? Chec
   
 - **source{d}**
   - Swag: T-shirt
-  - Requirements: 1 *merged* PR
+  - Requirements: 1 PR
     - PR1:
   - [x] Complete? 
